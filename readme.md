@@ -6,7 +6,7 @@ Simple todo list app created using React JS and Material UI
 
 This project was built using:
 
-- [![ReactJS][reactjs.org]][reactjs-url]
+[![ReactJS][reactjs.org]][reactjs-url]
 
 [reactjs.org]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
 [reactjs-url]: https://reactjs.org
